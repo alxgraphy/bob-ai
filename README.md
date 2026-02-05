@@ -530,7 +530,7 @@ Built with:
 
 ---
 
-Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@alxgraphy)
+Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@thealxlabs)
 
 ---
 
